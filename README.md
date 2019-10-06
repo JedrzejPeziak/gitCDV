@@ -4,7 +4,7 @@
 
 
 ### Ulubione 5 polecen w linuxa z zajec 05.10.2019
-```assembler
+```console
 chmod
 cat
 ls
